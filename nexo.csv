@@ -1,0 +1,76 @@
+Transaction,Type,Currency,Amount,Details,Outstanding Loan,Date / Time
+NXTI1MR1ZRWDU,Interest,LTC,0.00000808,approved / LTC Interest Earned,$0.00,2021-03-18 01:00:03
+NXTa2EtVbBcKc,Interest,LTC,0.00000808,approved / LTC Interest Earned,$0.00,2021-03-17 01:00:03
+NXTC35LhwdlNr,Interest,LTC,0.00000808,approved / LTC Interest Earned,$0.00,2021-03-16 01:00:03
+NXTbRuhhH0BvV,Interest,LTC,0.00000808,approved / LTC Interest Earned,$0.00,2021-03-15 01:00:03
+NXTGY58GgvxY2,LockingTermDeposit,ETH,-16.34721486,approved / Transfer from Savings Wallet to Term Wallet,$0.00,2021-03-14 01:57:40
+NXTj0Ozx7X9Ki,LockingTermDeposit,BTC,-1.30922721,approved / Transfer from Savings Wallet to Term Wallet,$0.00,2021-03-14 01:56:32
+NXTfMLIOdDhlP,Interest,ETH,0.00175647,approved / ETH Interest Earned,$0.00,2021-03-14 01:00:03
+NXTWkrzpKzJmc,Interest,LTC,0.00000808,approved / LTC Interest Earned,$0.00,2021-03-14 01:00:03
+NXTZqxEeeG1zB,Interest,BTC,0.00014067,approved / BTC Interest Earned,$0.00,2021-03-14 01:00:03
+NXTy5Avm907cV,Interest,BTC,0.00014065,approved / BTC Interest Earned,$0.00,2021-03-13 01:00:03
+NXTUoHiGbLc7n,Interest,ETH,0.00175629,approved / ETH Interest Earned,$0.00,2021-03-13 01:00:03
+NXTrYc7BEZZwF,Interest,LTC,0.00000808,approved / LTC Interest Earned,$0.00,2021-03-13 01:00:03
+NXTRtudAgS60z,Interest,LTC,0.00000807,approved / LTC Interest Earned,$0.00,2021-03-12 01:00:03
+NXTJ1wScL4NId,Interest,BTC,0.00014064,approved / BTC Interest Earned,$0.00,2021-03-12 01:00:03
+NXT5fVEMBvUAK,Interest,ETH,0.00175610,approved / ETH Interest Earned,$0.00,2021-03-12 01:00:03
+NXTYPQSlJRAey,Interest,LTC,0.00000807,approved / LTC Interest Earned,$0.00,2021-03-11 01:00:03
+NXT308mqkuVnx,Interest,ETH,0.00175591,approved / ETH Interest Earned,$0.00,2021-03-11 01:00:03
+NXT3X8WorDBH5,Interest,BTC,0.00014062,approved / BTC Interest Earned,$0.00,2021-03-11 01:00:03
+NXTrNpxxmAigK,Interest,ETH,0.00175572,approved / ETH Interest Earned,$0.00,2021-03-10 01:00:02
+NXT8XYLUTpY7t,Interest,LTC,0.00000807,approved / LTC Interest Earned,$0.00,2021-03-10 01:00:02
+NXTbV7xvhCFqo,Interest,BTC,0.00014061,approved / BTC Interest Earned,$0.00,2021-03-10 01:00:02
+NXTsIzWzDr1VB,Interest,LTC,0.00000807,approved / LTC Interest Earned,$0.00,2021-03-09 01:00:03
+NXTQXrZk2V3pC,Interest,BTC,0.00014059,approved / BTC Interest Earned,$0.00,2021-03-09 01:00:03
+NXTe3QEbMzC5j,Interest,ETH,0.00175553,approved / ETH Interest Earned,$0.00,2021-03-09 01:00:03
+NXTMl1frloRSn,Interest,LTC,0.00000807,approved / LTC Interest Earned,$0.00,2021-03-08 01:00:03
+NXTtOV0Bfsztd,Interest,BTC,0.00014058,approved / BTC Interest Earned,$0.00,2021-03-08 01:00:03
+NXTbxD0nxTWDA,Interest,ETH,0.00175534,approved / ETH Interest Earned,$0.00,2021-03-08 01:00:03
+NXTDNZkbZYgjV,Interest,LTC,0.00000807,approved / LTC Interest Earned,$0.00,2021-03-07 01:00:03
+NXT8wafKOrpNK,Interest,ETH,0.00175515,approved / ETH Interest Earned,$0.00,2021-03-07 01:00:03
+NXTxn6blrGiAR,Interest,BTC,0.00014056,approved / BTC Interest Earned,$0.00,2021-03-07 01:00:03
+NXTKq77H90UCC,Interest,LTC,0.00000807,approved / LTC Interest Earned,$0.00,2021-03-06 01:00:03
+NXTTeBosFeQMz,Interest,BTC,0.00014055,approved / BTC Interest Earned,$0.00,2021-03-06 01:00:03
+NXTF0kD7TpAcd,Interest,ETH,0.00175497,approved / ETH Interest Earned,$0.00,2021-03-06 01:00:03
+NXTxcYSVSyMzD,Interest,BTC,0.00017482,approved / BTC Interest Earned,$0.00,2021-03-05 01:00:02
+NXT1xu5c5OIGw,Interest,LTC,0.00001004,approved / LTC Interest Earned,$0.00,2021-03-05 01:00:02
+NXTvFP7KiU2QE,Interest,ETH,0.00218290,approved / ETH Interest Earned,$0.00,2021-03-05 01:00:02
+NXTdMN6UWXCKM,Interest,BTC,0.00017480,approved / BTC Interest Earned,$0.00,2021-03-04 01:00:02
+NXTudSvP607NG,Interest,LTC,0.00001004,approved / LTC Interest Earned,$0.00,2021-03-04 01:00:02
+NXTh0Wp9thtVO,Interest,ETH,0.00218260,approved / ETH Interest Earned,$0.00,2021-03-04 01:00:02
+NXTsJPp034SrK,Interest,LTC,0.00001004,approved / LTC Interest Earned,$0.00,2021-03-03 01:00:02
+NXTZb7S7hycYo,Interest,ETH,0.00218231,approved / ETH Interest Earned,$0.00,2021-03-03 01:00:02
+NXTh0oKqK86WD,Interest,BTC,0.00017477,approved / BTC Interest Earned,$0.00,2021-03-03 01:00:02
+NXTDaPx4fcisY,Interest,ETH,0.00218202,approved / ETH Interest Earned,$0.00,2021-03-02 01:00:02
+NXTYJjKy9mcw2,Interest,LTC,0.00001003,approved / LTC Interest Earned,$0.00,2021-03-02 01:00:02
+NXT8V3gRWp6Ru,Interest,BTC,0.00017475,approved / BTC Interest Earned,$0.00,2021-03-02 01:00:02
+NXTAue12cwH2O,Interest,ETH,0.00218173,approved / ETH Interest Earned,$0.00,2021-03-01 01:00:03
+NXTkyav88Aewv,Interest,LTC,0.00001003,approved / LTC Interest Earned,$0.00,2021-03-01 01:00:03
+NXTiqCSj7IVac,Interest,BTC,0.00017473,approved / BTC Interest Earned,$0.00,2021-03-01 01:00:03
+NXTQ9vakWA1po,Interest,ETH,0.00218144,approved / ETH Interest Earned,$0.00,2021-02-28 01:00:02
+NXTceyk6H78Dr,Interest,LTC,0.00001003,approved / LTC Interest Earned,$0.00,2021-02-28 01:00:02
+NXTmuFzf9NzeG,Interest,BTC,0.00017470,approved / BTC Interest Earned,$0.00,2021-02-28 01:00:02
+NXTYklOq8cQG7,Interest,ETH,0.00218115,approved / ETH Interest Earned,$0.00,2021-02-27 01:00:02
+NXTEidvNthkJK,Interest,BTC,0.00017468,approved / BTC Interest Earned,$0.00,2021-02-27 01:00:02
+NXTo5Ov29gu7A,Interest,LTC,0.00001003,approved / LTC Interest Earned,$0.00,2021-02-27 01:00:02
+NXT3nwVSlsemB,Interest,LTC,0.00001003,approved / LTC Interest Earned,$0.00,2021-02-26 01:00:02
+NXTRs60xIvSEu,Interest,BTC,0.00017466,approved / BTC Interest Earned,$0.00,2021-02-26 01:00:02
+NXTWKp5Rn9T7y,Interest,ETH,0.00218085,approved / ETH Interest Earned,$0.00,2021-02-26 01:00:02
+NXTylQimaNLqp,Interest,BTC,0.00017463,approved / BTC Interest Earned,$0.00,2021-02-25 01:00:02
+NXToHOaRyUJDk,Interest,LTC,0.00001003,approved / LTC Interest Earned,$0.00,2021-02-25 01:00:02
+NXTwVeozhh6tB,Interest,ETH,0.00218056,approved / ETH Interest Earned,$0.00,2021-02-25 01:00:02
+NXTQGV3R0PIk6,Interest,ETH,0.00218027,approved / ETH Interest Earned,$0.00,2021-02-24 01:00:02
+NXTOpIVTEmNUU,Interest,LTC,0.00001003,approved / LTC Interest Earned,$0.00,2021-02-24 01:00:02
+NXTLsKhF6quQ9,Interest,BTC,0.00017461,approved / BTC Interest Earned,$0.00,2021-02-24 01:00:02
+NXTb7SXF8fYHX,Interest,LTC,0.00001003,approved / LTC Interest Earned,$0.00,2021-02-23 01:00:03
+NXTy3j5qENEGR,Interest,ETH,0.00217998,approved / ETH Interest Earned,$0.00,2021-02-23 01:00:03
+NXTIMLRHWREwn,Interest,BTC,0.00017459,approved / BTC Interest Earned,$0.00,2021-02-23 01:00:03
+NXTri9T2NqBK5,Interest,ETH,0.00037501,approved / ETH Interest Earned,$0.00,2021-02-22 01:00:02
+NXT5BKeCj1AVF,Deposit,LTC,0.07503000,approved / 68cc3eb241cf50e2e7251a11c85cc05eba94ca9f3445329f9835aa1b24df952f,$0.00,2021-02-21 02:40:50
+NXT4FNqzk9lBs,Deposit,BTC,1.30604000,approved / 01b28194a376981be7955f28a7874157eac8aeea7b5ab2969399807ce25c34aa,$0.00,2021-02-21 02:26:29
+NXTuNyunmqK6N,Deposit,ETH,13.50176000,approved / 0x2ae45b694ead67685b3e6c46b3110e2fc0745d1f6192f3fc889c30f10b49a1ff,$0.00,2021-02-21 02:24:27
+NXTfk7oWPLasE,Interest,ETH,0.00005225,approved / ETH Interest Earned,$0.00,2021-02-21 01:00:02
+NXT6cSvvHwgcC,Deposit,ETH,2.41436000,approved / 0x6d0325beeb38b748ee0d57ce6d56e0b72f711144e934583de25df06bea76d1f0,$0.00,2021-02-20 16:32:06
+NXTnfbiUyxAKS,Interest,ETH,0.00005224,approved / ETH Interest Earned,$0.00,2021-02-20 01:00:02
+NXTubV785DuTV,Interest,ETH,0.00005223,approved / ETH Interest Earned,$0.00,2021-02-19 01:00:03
+NXTBlKiz7kIBV,Deposit,ETH,0.39076584,approved / 0xbf3276cf3140481f21b2a0b9cfec41504a064dc84a8cadf3f9a3b286b61240d6,$0.00,2021-02-17 20:09:18
