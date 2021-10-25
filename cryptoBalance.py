@@ -17,7 +17,7 @@ def getDBConnection():
                     host="192.168.87.33",
                     database="crypto",
                     user="postgres",
-                    password="G@lw@y1970!"
+                    password=""
                     )
     return conn
 
@@ -98,7 +98,7 @@ def insertCryptoBalance(rows):
                         ) )
         tupList.append(tup)
     cmd = bulk_insert_into_crypto_balance(table_name, column_names, tupList) 
-    
+
     cur.execute(cmd)
     conn.commit()
 
