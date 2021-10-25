@@ -97,7 +97,8 @@ def insertCryptoBalance(rows):
                             quote_24h                       
                         ) )
         tupList.append(tup)
-    cmd = bulk_insert_into_crypto_balance(table_name, column_names, tupList)
+    cmd = bulk_insert_into_crypto_balance(table_name, column_names, tupList) 
+    
     cur.execute(cmd)
     conn.commit()
 
